@@ -22,13 +22,13 @@ and team performance scores.
 ![Streamlit App](Déploiment.png)
 
 ### Power BI — Attendance Analysis
-![Attendance](attendance%20analysis.png)
+![Attendance](attendance_analysis.png)
 
 ### Power BI — World Cup Team Analysis
-![Team Analysis](world%20cup%20team%20analysis.png)
+![Team Analysis](world_cup_team_analysis.png)
 
 ### Power BI — International Team Analysis
-![International](international%20teams%20analysis.png)
+![International](international_teams_analysis.png)
 
 ---
 
